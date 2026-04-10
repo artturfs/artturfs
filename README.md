@@ -32,7 +32,7 @@ Sou esforçado, dedicado e sempre tento aprender algo novo.
 
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-FF8C00?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1E90FF?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1E90FF?style=for-the-badge&logo=CSS3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
@@ -45,10 +45,9 @@ Sou esforçado, dedicado e sempre tento aprender algo novo.
 ---
 
 ## 📫 Onde me encontrar
-
 <p align="left">
   <a href="mailto:artur.silva103@aluno.ce.gov.br">
-    <img src="https://img.shields.io/badge/Gmail-6CA6CD?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
   <a href="https://www.linkedin.com/in/artur-fernandes-447844376/">
@@ -56,6 +55,6 @@ Sou esforçado, dedicado e sempre tento aprender algo novo.
   </a>
 
   <a href="https://instagram.com/arturfernands">
-    <img src="https://img.shields.io/badge/Instagram-1E90FF?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
