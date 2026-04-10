@@ -2,7 +2,7 @@
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6CA6CD&center=true&vCenter=true&width=800&lines=Desenvolvedor+Web+em+forma%C3%A7%C3%A3o;Praticando+Front-end+e+Back-end;Evoluindo+um+pouco+todos+os+dias;Tecnologia+transforma+minha+vida"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=002883&center=true&vCenter=true&width=800&lines=Desenvolvedor+Web+em+forma%C3%A7%C3%A3o;Praticando+Front-end+e+Back-end;Evoluindo+um+pouco+todos+os+dias;Tecnologia+transforma+minha+vida"
     alt="Typing Animation"
   />
 </p>
