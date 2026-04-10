@@ -2,8 +2,8 @@
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6CA6CD&center=true&vCenter=true&width=800&lines=Desenvolvedor+Web+em+formação;Estudando+Node.js%2C+Express+e+React;Buscando+melhorar+no+Front+e+no+Back-end;Aprendendo+e+evoluindo+todos+os+dias;A+tecnologia+muda+minha+vida" 
-    alt="Typing Animation" 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6CA6CD&center=true&vCenter=true&width=800&lines=Desenvolvedor+Web+em+forma%C3%A7%C3%A3o;Estudando+Node.js%2C+Express+e+React;Praticando+Front-end+e+Back-end;Evoluindo+um+pouco+todos+os+dias;Tecnologia+transforma+minha+vida"
+    alt="Typing Animation"
   />
 </p>
 
