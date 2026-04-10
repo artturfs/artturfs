@@ -1,10 +1,8 @@
 <h1 align="center">Artur Fernandes</h1>
 
+
 <p align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&duration=3800&color=6CA6CD&center=true&vCenter=true&width=800&lines=Desenvolvedor+web+em+evolução;Construindo+projetos+com+Node.js+e+Express;Praticando+React+para+melhorar+no+front-end;Aprimorando+lógica+e+boas+práticas;Em+busca+de+uma+oportunidade+de+estágio" 
-    alt="Typing Animation" 
-  />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=F78DA7&center=true&vCenter=true&width=800&lines=Front-end+em+constru%C3%A7%C3%A3o+com+muito+carinho+e+dedica%C3%A7%C3%A3o;Transformando+ideias+em+interfaces+bonitas+e+funcionais;Estudando%2C+praticando+e+evoluindo+um+passo+de+cada+vez;Em+busca+de+uma+oportunidade+de+est%C3%A1gio" alt="Typing SVG" />
 </p>
 
 <p align="center">
