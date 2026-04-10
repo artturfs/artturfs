@@ -1,7 +1,10 @@
 <h1 align="center">Artur Fernandes</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=6CA6CD&center=true&vCenter=true&width=800&lines=Desenvolvedor+em+evolução+constante;Estudando+Node.js%2C+Express+e+React;Construindo+projetos+para+aprender+de+verdade;Em+busca+de+oportunidade+para+crescer+na+área+de+tecnologia" />
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&duration=3800&color=6CA6CD&center=true&vCenter=true&width=800&lines=Desenvolvedor+web+em+evolução;Construindo+projetos+com+Node.js+e+Express;Praticando+React+para+melhorar+no+front-end;Aprimorando+lógica+e+boas+práticas;Em+busca+de+uma+oportunidade+de+estágio" 
+    alt="Typing Animation" 
+  />
 </p>
 
 <p align="center">
@@ -17,24 +20,25 @@
 
 ## 👋 Sobre mim
 
-Oi! Eu sou o Artur, estudante de Informática na EEEP Paulo Petrola e apaixonado por desenvolvimento web.  
-Gosto de criar coisas que realmente funcionam — desde APIs até interfaces mais intuitivas.
+Olá! Sou o Artur, estudante de Informática na EEEP Paulo Petrola e apaixonado por desenvolvimento web.
 
-Nos últimos meses, venho me dedicando bastante a:
+Gosto de entender como as coisas funcionam por trás do código e transformar ideias em projetos reais. Busco evoluir tanto no back-end quanto no front-end, sempre praticando para me tornar um desenvolvedor completo.
 
-- **Node.js + Express** (Back-end)
-- **React** (Front-end)
-- **JavaScript moderno**
-- Organização, lógica e boas práticas
+Atualmente estou focado em:
 
-Meu foco hoje é evoluir como desenvolvedor full-stack e buscar uma oportunidade para colocar tudo isso em prática com um time de verdade.
+- **Node.js + Express**  
+- **React**  
+- **JavaScript moderno (ES6+)**  
+- **APIs, rotas, lógica e boas práticas**
+
+E claro, sempre tentando aprender um pouco mais a cada projeto.
 
 ---
 
-## 📚 Tecnologias que estou estudando
+## 📚 Tecnologias que uso e estudo
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,nodejs,express,react,html,css,git,github,vscode,mysql&theme=light" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,react,js,html,css,git,github,vscode,mysql&theme=light" />
 </p>
 
 ---
@@ -42,22 +46,21 @@ Meu foco hoje é evoluir como desenvolvedor full-stack e buscar uma oportunidade
 ## 📍 Onde você me encontra
 
 - `Fortaleza - CE`
-- `Desenvolvimento Web`
-- `Busco estágio`
-- `Node.js • Express • React`
+- `Estudante de Informática`
+- `Full-stack em construção`
+- `Buscando estágio`
 
 ---
 
 ## 🚀 Meu momento
 
-Estou sempre tentando melhorar meu código, a estrutura dos meus projetos e a forma como organizo minhas ideias.  
-Cada novo projeto é uma chance de evoluir e entender melhor o que estou construindo — seja front, seja back.
+Cada projeto que faço é uma oportunidade de evoluir — seja testando uma feature nova, estudando uma lib diferente ou melhorando minha lógica.
 
-Aqui no GitHub, você vai ver meus estudos, testes, pequenos sistemas e a minha evolução como desenvolvedor.
+No GitHub você vai ver meus exercícios, estudos, pequenos sistemas e muito do meu progresso real como desenvolvedor.
 
 ---
 
-## 📦 Projetos e repositórios
+## 📦 Meus repositórios
 
 <p align="center">
   <a href="https://github.com/artuufls?tab=repositories">
@@ -71,8 +74,6 @@ Aqui no GitHub, você vai ver meus estudos, testes, pequenos sistemas e a minha 
   <a href="#">Projeto 3</a> •
   <a href="#">Projeto 4</a>
 </p>
-
-*(se quiser, coloco seus projetos reais aqui — é só mandar os links)*
 
 ---
 
