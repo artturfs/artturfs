@@ -11,37 +11,35 @@
 
 ## 👋 Sobre mim
 
-Hey! Meu nome é **Artur**, tenho **17 anos** e estudo Informática na **EEEP Paulo Petrola**.  
-Gosto de criar coisas que funcionem de verdade e mostrar minha evolução através dos meus projetos.
+Olá! Meu nome é **Artur**, tenho **17 anos** e estudo Informática na **EEEP Paulo Petrola**.  
+Gosto de criar coisas que funcionem na prática e mostrar minha evolução através dos meus projetos.
 
 Atualmente estou focado em:
 
-- **Node.js & Express** (Back-end)
-- **React** (Front-end)
-- **JavaScript moderno**
+- **HTML e CSS**
+- **JavaScript**
+- **React**
+- **NodeJS**
+- **NextJS**
 - Aperfeiçoar lógica, organização e boas práticas  
-- Melhorar meu inglês (CCI — nível 5/6)
+- Melhorar meu inglês (CCI — semestre 5/6)
 
-Sou curioso, dedicado e sempre tento aprender algo novo.
+Sou esforçado, dedicado e sempre tento aprender algo novo.
 
 ---
 
 ## 🛠 Minhas tecnologias
 
 <p align="left">
+  <img src="https://img.shields.io/badge/HTML5-FF8C00?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1E90FF?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-6CA6CD?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Express-3B6EA5?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61dafb?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/MySQL-1E90FF?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black" />
-</p>
-
----
-
-## 📊 Estatísticas do GitHub
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=artuufls&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=artuufls&layout=compact&langs_count=7&theme=dracula"/>
 </p>
 
 ---
@@ -49,7 +47,15 @@ Sou curioso, dedicado e sempre tento aprender algo novo.
 ## 📫 Onde me encontrar
 
 <p align="left">
-  <a href="#"><img src="https://img.shields.io/badge/Gmail-6CA6CD?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-3B6EA5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Instagram-1E90FF?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="mailto:artur.silva103@aluno.ce.gov.br">
+    <img src="https://img.shields.io/badge/Gmail-6CA6CD?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/artur-fernandes-447844376/">
+    <img src="https://img.shields.io/badge/LinkedIn-3B6EA5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="https://instagram.com/arturfernands">
+    <img src="https://img.shields.io/badge/Instagram-1E90FF?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
 </p>
