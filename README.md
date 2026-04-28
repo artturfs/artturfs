@@ -18,7 +18,6 @@ Atualmente estou focado em:
 
 - **HTML e CSS**
 - **JavaScript**
-- **React**
 - **NodeJS**
 - **NextJS**
 - Aperfeiçoar lógica, organização e boas práticas  
